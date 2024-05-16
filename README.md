@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MpilonhleMtungwa
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning App development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mtungwampilonhle@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
