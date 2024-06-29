@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mtungwampilonhle@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: You Can't Hum While Holding Your Nose
 
 <!---
 MpilonhleMtungwa/MpilonhleMtungwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
